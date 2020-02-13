@@ -1,0 +1,26 @@
+.heading {
+    text-align: center;
+}
+.color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30rem;
+    height: 30rem;
+    background-color: aqua;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3rem;
+}
+
+.color-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: 0;
+    background-color: green;
+    border: none;
+    height: 2rem;
+    width: 5rem;
+    border-radius: 5px;
+}
